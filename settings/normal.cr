@@ -1,0 +1,11 @@
+settings::default
+site_name::cris-snw
+site_adress::cr.leo
+site_copy::Ivan-Oksana
+site_title::cris
+admin_mail::none
+admin_name::none
+site_lang::RU_ru
+site_stile::default
+site_error::default
+--end-conf--
