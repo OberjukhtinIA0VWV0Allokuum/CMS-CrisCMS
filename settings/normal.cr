@@ -2,6 +2,8 @@ settings::default
 site_name::cris-snw
 site_adress::cr.leo
 site_copy::Ivan-Oksana
+site_copy_city::Ekaterinburg
+site_copy_yer::2015-2016
 site_title::cris
 admin_mail::none
 admin_name::none
